@@ -1,0 +1,33 @@
+body{
+    background-image: url(https://m.media-amazon.com/images/S/pv-target-images/5ba0d90203ece82f2a1d5489910630b8d79d7ec84fed3549760cea0fc5920cb7._SX1080_FMjpg_.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-image: round;
+    background-blend-mode: difference;
+    background-clip: padding-box;
+
+}   
+h1{
+    font-weight: bolder;
+    font-size: xx-large;
+    font-style: italic;
+    background-color:#afdbd5;
+    color: red;
+    gap: 5px;
+    
+}
+img{
+    color: brown;
+    border: 7px solid rgb(24, 23, 23);
+    box-sizing:100px ;
+    gap: 5px;
+    border-radius: 50px;
+    image-resolution: 998px;
+
+
+}
+h2{
+    color: rgb(108, 208, 244);
+    font-style: italic;
+    
+}
